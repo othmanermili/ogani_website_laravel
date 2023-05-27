@@ -1,6 +1,7 @@
 # ogani_website_laravel
+ 
+the all parts are just without the vendor and node_modules .
 
-The version 1 is without the file ' frontend ' and without the ' node_modules '
 
 
 
